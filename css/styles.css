@@ -1,0 +1,45 @@
+.alert-box {
+  background-color: skyblue;
+  padding: 20px;
+  color: white;
+  border-radius: 5px;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  border: none;
+}
+
+.close-button {
+  background-color: skyblue;
+  font-size: 16px;
+  color: gray;
+
+  height: 20px;
+  width: 20px;
+}
+
+.close-button:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.open-button {
+  background-color: tomato;
+  height: 40px;
+  width: 80px;
+
+  margin-top: 10px;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  color: #ffffff;
+}
+
+.open-button:hover {
+  background-color: rgb(255, 99, 71, 0.8);
+}
