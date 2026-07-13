@@ -27,3 +27,21 @@ ECMAScript 명세는 언어의 계산 규칙을 정의하지만 입출력, 타�
 - [1. 분류](./docs/01_분류.md)
 - [2. 순환](./docs/02_순환.md)
 - [3. 계획](./docs/03_계획.md)
+
+```
+javascript
+├─ .DS_Store
+├─ README.md
+├─ TODO.md
+├─ assessments
+├─ docs
+│  ├─ 01_분류.md
+│  ├─ 02_순환.md
+│  └─ 03_계획.md
+├─ experiments
+├─ explanations
+├─ index.html
+├─ main.js
+├─ projects
+└─ questions
+```
