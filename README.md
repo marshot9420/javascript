@@ -27,3 +27,26 @@ ECMAScript 명세는 언어의 계산 규칙을 정의하지만 입출력, 타�
 - [1. 분류](./docs/01_분류.md)
 - [2. 순환](./docs/02_순환.md)
 - [3. 계획](./docs/03_계획.md)
+
+## 구조
+
+```
+javascript
+├─ README.md
+├─ logs/
+├─ experiments/
+├─ explanations/
+├─ index.html
+├─ main.js
+├─ projects/
+├─ questions/
+└─ trainings/
+```
+
+- `logs/`: 공부 내용을 기록하는 곳이다.
+- `index.html` & `main.js`: 자바스크립트 실행을 위한 기본 셋팅이다. 코드는 여기에서 작성하고 검증 & 실험한다.
+- `experiments/`: 공부 과정에서 생각난 것들을 실험하고 검증한 뒤, 내용을 기록하는 곳이다.
+- `explanations/`: 정리된 내용이 있다면 여기서 정리한다.
+- `projects/`: 최종적으로 공부한 내용과 연구, 이해 내용을 토대로 무언가를 만들어 보는 곳이다.
+- `questions/`: 그날 나온 질문을 정리하는 곳이다.
+- `trainings/`: 어떠한 개념을 학습했을 때, 코드를 작성할 때 자동적으로 생각할 수 있도록 반복 훈련하는 곳이다.
